@@ -8,3 +8,8 @@ set label.txt and image path
 Annotations
 ImageSets
 JEPGImages
+
+# Usage
+run make_anno.py
+run make_label.py
+run make_cls_txt.py
